@@ -66,7 +66,7 @@ fun TopBar() {
         verticalAlignment = Alignment.CenterVertically
     ) {
         Text(
-            text = "Little Lemon",
+            text = "Little Cam",
             fontSize = 24.sp,
             color = Color.White
         )
@@ -100,7 +100,7 @@ fun RestaurantHeader() {
             )
             Spacer(modifier = Modifier.height(8.dp))
             Text(
-                text = "Welcome to Little Lemon",
+                text = "Welcome to Little Cam",
                 fontSize = 20.sp,
                 color = Color.Black
             )
